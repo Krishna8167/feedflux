@@ -11,15 +11,16 @@ This is not just an RSS reader --- it is being developed as a backend systems en
  Architecture (Current Direction)
 -----------------------------------
 
-`HTTP (Gin)
-   ↓
-Handler
-   ↓
-Service (Business Logic)
-   ↓
-Repository (Interface)
-   ↓
-Storage Implementation (In-Memory → PostgreSQL)`
+HTTP (Gin) \
+   ↓ \
+Handler \
+   ↓ \
+Service (Business Logic) \
+   ↓ \
+Repository (Interface) \
+   ↓ \
+Storage Implementation (In-Memory → PostgreSQL) 
+
 
 The system follows layered architecture with clear separation of concerns and dependency inversion.
 
