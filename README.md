@@ -1,8 +1,13 @@
-<img width="1036" height="524" alt="ChatGPT Image Feb 14, 2026, 06_28_31 PM" src="https://github.com/user-attachments/assets/552f9b36-9f02-4d2e-bad4-267a6cfb6eb9" />
-
- 
  FeedFlux
 ===========
+
+<p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/552f9b36-9f02-4d2e-bad4-267a6cfb6eb9" 
+    alt="feedflux Logo" 
+    width="380"
+  />
+</p>
 
 **FeedFlux** is a production-oriented RSS aggregation backend built in Go using Gin.\
 The project focuses on clean architecture, background processing, containerized infrastructure, and DevOps-driven development.
